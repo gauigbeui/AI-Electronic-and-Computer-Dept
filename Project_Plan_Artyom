@@ -1,69 +1,80 @@
->> ### Project Plan : AI Project 1 ###<<
-1. Course Name : AI 
-2. Team Information
-- Team Name
-- Team Members (Name / Student ID / Role):
- > Leader Name:                ,  Student ID:           , Group: E40A, Role: Leader,   
- > Member Name 1:                ,  Student ID:           , Group: E40A,
-, Role: 
- > Member Name 2:                ,  Student ID:           , Group: E40A, Role:  
- > Member Name 3:                ,  Student ID:           , Group, Role: 
- > Member Name 4:                ,  Student ID:           , Group:, Role: 
- > Member Name 5:                ,  Student ID:           , Group: Role: 
+# Project Plan: AI Mini Project
 
-3. Project Title : Data Analysis
-- (Provide a clear and descriptive title for your project.)
+## 1. Course Name
+Artificial Intelligence (AI)
 
-4. Dataset Information
-- Dataset Title:
-- Source Website / URL:
-- Description of the dataset:
-- Why this dataset was selected:
-- Size of dataset (rows, columns):
+## 2. Team Information
 
-5. Project Objectives
-- What problem are you trying to solve?
-- What questions do you want to answer using data analysis?
-- Expected insights from the dataset.
+- Team Name: Something
+- Team Leader: ARTYOM LIM (202390259, E40A)
 
-6. Data Preparation (Using Pandas)
-Describe clearly with code snippets and explanation:
-- Loading the dataset
-- Cleaning data (missing values, duplicates, data types)
-- Data transformation and feature creation
+| No. | Student ID | Full Name | Group |
+|---|---|---|---|
+| 1 | 202390212 | KAMAL NURJANOV | E40A |
+| 2 | 202390211 | DAVID KIM | E40B |
+| 3 | 202390210 | BOGDAN MALYUCHENKO | E40B |
 
-7. Data Analysis Tasks (Using Pandas)
-Perform meaningful analysis using Pandas operations:
-- Filtering, sorting, grouping
-- Pivot tables or aggregation
-- Answer the questions defined in the objectives section
-- Include code and explanation
+## 3. Project Title
 
-8. Key Findings and Insights
-- What did you discover from the data?
-- Business or real-world interpretation of the results
+Introduction to Artificial Intelligence
 
-9. Project Timeline (5 Weeks)
+**Selected Topic:** Option A – AI Concepts & Trends (AI Overview)
 
-| Week                     |        Activities                   |
-|------------------------  |-------------------------------------|
-| Week 1(07.Sep ~ 13.Sep)  | Dataset search and project planning |
-| Week 2(14.Sep ~ 20.Sep)  | Data cleaning and preparation |
-| Week 3(21.Sep ~ 27.Sep)  |  Data analysis and visualization |
-| Week 5(28.Sep ~ 13.Oct)  | Report writing and presentation preparation |
-Presentation: 14.Oct
+## 4. Project Overview
 
-10. Outcome of the Project
-- What students learned from this project
-- Skills developed in Pandas data analysis
+This project focuses on introducing Artificial Intelligence (AI), explaining its basic concepts, characteristics, and applications in modern society.
 
-11. Conclusion
-- Summary of the project and its importance
+It will provide an overview of how AI works and how it is used in everyday life, including education, healthcare, transportation, and business.
 
-12. References
-- Dataset source
-- Tutorials, websites, or documentation used
+The project will also introduce the main benefits and limitations of Artificial Intelligence.
 
-13. Appendix
-- Important code snippets
-- Additional charts or tables
+## 5. Project Objectives
+
+- Explain the definition and basic concepts of Artificial Intelligence.
+- Understand the main characteristics of AI.
+- Introduce basic principles of how AI works.
+- Explore examples of AI applications in everyday life.
+- Identify the advantages and disadvantages of AI.
+
+## 6. Project Scope
+
+The project will focus on the following areas:
+
+1. Definition and Introduction to AI.
+2. Basic Characteristics of Artificial Intelligence.
+3. How Artificial Intelligence Works.
+4. Applications of AI in Everyday Life.
+5. Advantages and Disadvantages of AI.
+
+## 7. Methodology
+
+The project will use a research-based approach.
+
+Information will be collected from reliable educational websites, research publications, and official technology sources.
+
+The team will:
+- Research basic AI concepts.
+- Collect relevant information and examples.
+- Organize and analyze the collected information.
+- Prepare a written project report.
+- Create a PowerPoint presentation.
+
+## 8. Expected Outcomes
+
+- Develop a basic understanding of Artificial Intelligence.
+- Understand how AI works and where it is used.
+- Identify practical applications of AI.
+- Understand the main benefits and limitations of AI.
+- Present the research findings in a clear and organized format.
+
+## 9. Final Deliverables
+
+- Project proposal uploaded to GitHub.
+- Final project report in MS Word format.
+- Presentation slides in PowerPoint format.
+
+## 10. Conclusion
+
+This project aims to provide a clear and beginner-friendly introduction to Artificial Intelligence.
+
+By exploring its basic concepts, characteristics, and everyday applications, the team will develop an understanding of the role of AI in modern society and its importance in different fields
